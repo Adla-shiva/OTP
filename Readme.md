@@ -54,9 +54,8 @@ Issues and PRs are welcome. Describe changes clearly and include testing notes.
 
 This project has no license specified. Add a `LICENSE` file (for example, MIT) if you wish to set licensing.
 
-## Questions
+## ✅ Recommendation
 
-If you want, I can add examples, CLI options, environment variable docs, or a sample `package.json` scripts section — tell me which and I'll add them.
-
-I haven't Encrypted the data for testing purpose it is recomended that you need to send the encrypted data in the cookies or as an response for better security.
+For testing purposes, the data has not been encrypted.
+However, in a production environment, it is strongly recommended to send encrypted data either in cookies or as part of the response payload to ensure better security.
 
