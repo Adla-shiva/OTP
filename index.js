@@ -38,7 +38,6 @@ async function start() {
         <p>Your OTP is: <b>${otp}</b></p>
     `,
 
-
         };
 
         transporter.sendMail(

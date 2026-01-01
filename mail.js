@@ -5,8 +5,8 @@ var transporter = nm.createTransport(
         port: 587,
         secure: false,
         auth: {
-            user: 'adlashiva754@gmail.com',
-            pass: 'uwxe wtgl sbxq lvkc'
+            user: 'example@gmail.com',
+            pass: 'password'
         }
     }
 );
