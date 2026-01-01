@@ -58,5 +58,5 @@ This project has no license specified. Add a `LICENSE` file (for example, MIT) i
 
 If you want, I can add examples, CLI options, environment variable docs, or a sample `package.json` scripts section — tell me which and I'll add them.
 
-I have Encrypted the data for testing purpose it is recomended that you need to send the encrypted data in the cookies or as an response for better security.
+I haven't Encrypted the data for testing purpose it is recomended that you need to send the encrypted data in the cookies or as an response for better security.
 
